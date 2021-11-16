@@ -28,6 +28,10 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 Esse miniprojeto foi dividido em 4 grandes etapas:
 
 **1) Análise exploratória dos dados (EDA)**
+
 **2) Criação de um modelo de regressão linear multipla e posteriomente com as penalizações Lasso, Ridge e Elastic-net**
+
 **3) Criação de um modelo de classificação usando a regressão logística com ajuste fino de threshold**
+
 **4) Conclusões sobre o uso de cada um dos modelos e conclusão geral**
+
