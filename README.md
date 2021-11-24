@@ -1,5 +1,5 @@
-# miniprojeto5_predicao_qualidade_vinho_regressaolinear_e_regressaologistica
-Meu quinto miniprojeto em python no qual faço uma análise da qualidade do vinho usando modelos de machine learning de regressão linear e de regressão logística
+# projeto5_predicao_qualidade_vinho_regressaolinear_e_regressaologistica
+Meu quinto projeto em python no qual faço uma análise da qualidade do vinho usando modelos de machine learning de regressão linear e de regressão logística
 
 Os datasets são dados sobre vinhos tintos e vinhos brancos com as seguintes features e target:
 
@@ -25,7 +25,7 @@ Os dados foram retirados do repositorio de machine learnind da UCI e para mais i
 
 https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
-Esse miniprojeto foi dividido em 4 grandes etapas:
+Esse projeto foi dividido em 4 grandes etapas:
 
 **1) Análise exploratória dos dados (EDA)**
 
